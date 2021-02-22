@@ -1,0 +1,28 @@
+taZer - Auto DoS tool (ettercap)
+
+Made by R1K3R
+
+How to install?
+
+1. Download file.
+2. cd taZer/
+3. python3 tazer.py (read this before using!)
+
+How to use this tool?
+
+*taZer is Auto DoS tool. taZer makes more easier to using ettercap's DoS function.
+
+1. Select mode.
+---------mode----------
+1 : Dos Attack
+2 : Delete histroy files(IMPORTANT! Don't forget to delete history files before using taZer!)
+3 : Exit
+-----------------------
+
+2. Select mode 1. (before using please delete history files by using mode 2!)
+
+3. Enter target's IP Address. (Ex. 192.168.0.51)
+
+4. Shoot taZer Gun!
+
+5. Ctrl + C to stop Attacking.
