@@ -49,8 +49,7 @@ def dosstart():
 def removeelf():
 	os.system('rm -rf /root/taZer/dos.elt')
 	os.system('rm -rf /root/taZer/dos.ef')
-	print("History Files are completely deleted.")
-	back = input('Press Enter...')
+	back = input("History Files are completely deleted.")
 	menu()
 
 
