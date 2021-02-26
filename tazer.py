@@ -3,6 +3,7 @@
 
 #Made by R1K3R.
 #Simple auto ettercap dos tool.
+#Python3
 
 import os
 
