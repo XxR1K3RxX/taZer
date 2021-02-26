@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 # -*- coding:utf-8 -*-
 
 import os
@@ -70,7 +69,7 @@ def menu():
 	elif startCheck == '2' :
 		removeelf()
 	elif startCheck == '3' :
-		exit = input('Press Enter...')
+		exit = input('Goodbye~ :-)')
 	else :
 		print("Wrong input. try again.")
 		menu()
