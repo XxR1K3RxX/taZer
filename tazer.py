@@ -37,6 +37,7 @@ def dosstart():
 		shooting()
 	elif firecheck == 'n' :
 		enter = input('Press Enter...')
+		menu()
 	else :
 		print("Wrong input. try again.")
 		menu()
@@ -45,7 +46,7 @@ def removeelf():
 	os.system('rm -rf /root/taZer/dos.elt')
 	os.system('rm -rf /root/taZer/dos.ef')
 	print("History Files are completely deleted.")
-	dump1 = input('Press Enter...')
+	back = input('Press Enter...')
 	menu()
 
 
@@ -69,5 +70,6 @@ def menu():
 		exit = input('Press Enter...')
 	else :
 		print("Wrong input. try again.")
+		menu()
 
 menu()
