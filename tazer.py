@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
+#Made by R1K3R.
+#Simple auto ettercap dos tool.
+
 import os
 
 iptarget = "0"
