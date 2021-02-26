@@ -53,7 +53,7 @@ def menu():
 	clear()
 	banner()
 	print("Made by R1K3R_\n")
-	print("Version 1.0\n")
+	print("Version 1.2 (Update!)\n")
 	print("\n")
 	print("1. Start DoS Attack.\n")
 	print("2. Remove dos.elt & dos.ef (important)\n")
